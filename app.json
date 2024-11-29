@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'Gifted~'",
       "required": true,
-      "value": ""
+      "value": "Gifted~anY1nR6R#qi8zfN2ep920F-eoJLuAcyhuzcdlv5gpAMUGIcdOFEE"
     },  
     "MODE": {
       "description": "Set Mode  to 'public' or private. Default is 'public'",
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "KANEKI"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 2547xxxxx",
       "required": true,
-      "value": ""
+      "value": "2348089185650"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
